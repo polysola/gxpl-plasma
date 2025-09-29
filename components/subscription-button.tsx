@@ -23,7 +23,7 @@ const SubscriptionButton: React.FC<SubscriptionButtonProps> = ({
   const handleSubcribe = async () => {
     try {
       window.open(
-        "https://firstledger.net/token/r4Lb9VAALuHCs6kBuHQ6onLu8UtJqUYu5s/5852504700000000000000000000000000000000",
+        "https://dyorswap.org/launchInfo/?id=TBA&chainId=9745",
         "_blank"
       );
 
@@ -54,7 +54,7 @@ const SubscriptionButton: React.FC<SubscriptionButtonProps> = ({
       >
         <span>{title}</span>
         <Image
-          src="/leger.jpg"
+          src="/l.png"
           width={20}
           height={20}
           alt="logo"

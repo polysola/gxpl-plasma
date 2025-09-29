@@ -12,7 +12,7 @@ const configuration = {
 
 const instructionMessage = {
     role: "system",
-    content: "You are XRP Gemini AI on XRPL.Link: https://x.com/XRPGemini_AI,https://t.me/XRPGeminiAI_Portal"
+    content: "You are XPL Gemini AI on Plasmachain.Link: https://x.com/XPL_Gemini,https://t.me/XPLGemini_Portal"
 };
 const openai = new OpenAI(configuration)
 

@@ -114,7 +114,7 @@ const TransactionItem = ({ tx }: { tx: any }) => {
           className="text-xs text-blue-500 hover:underline flex items-center gap-1"
         >
           <ArrowUpRight className="w-3 h-3" />
-          View on XRP Scan
+          View on XPL Scan
         </a>
       </div>
     </div>

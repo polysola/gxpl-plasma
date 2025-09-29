@@ -82,6 +82,7 @@ const PhotoPage = () => {
   };
 
   const onSubmit = async (values: z.infer<typeof formSchema>) => {
+    return
     try {
       setMessages((current) => [
         ...current,
