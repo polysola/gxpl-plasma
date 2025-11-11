@@ -80,7 +80,7 @@ const Hero = () => {
                     </svg>
                   </a>
                   <a
-                    href="https://t.me/TonGemini_Portal"
+                    href="https://t.me/TONGeminiAI_Portal"
                     className="text-sm font-semibold leading-6 text-gray-400"
                   >
                     <svg

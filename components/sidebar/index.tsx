@@ -15,7 +15,7 @@ const SocialLinks = () => {
   return (
     <div className="flex items-center justify-center gap-4 mt-4 mb-4">
       <Link
-        href="https://t.me/TonGemini_Portal"
+        href="https://t.me/TONGeminiAI_Portal"
         className="transition-opacity hover:opacity-80"
         target="_blank"
         rel="noopener noreferrer"
