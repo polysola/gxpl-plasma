@@ -1,9 +1,9 @@
-import PlasmaTool from "@/components/xrp-tool";
+import TonTool from "@/components/xrp-tool";
 
-export default function PlasmaPage() {
+export default function TonPage() {
   return (
     <div className="container mx-auto">
-      <PlasmaTool />
+      <TonTool />
     </div>
   );
 }

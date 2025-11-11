@@ -23,7 +23,7 @@ const SubscriptionButton: React.FC<SubscriptionButtonProps> = ({
   const handleSubcribe = async () => {
     try {
       window.open(
-        "https://dyorswap.org/launchInfo/?id=TBA&chainId=9745",
+        "https://dedust.io/swap",
         "_blank"
       );
 
@@ -54,7 +54,7 @@ const SubscriptionButton: React.FC<SubscriptionButtonProps> = ({
       >
         <span>{title}</span>
         <Image
-          src="/l.png"
+          src="/dedust.png"
           width={20}
           height={20}
           alt="logo"

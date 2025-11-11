@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "XPL Gemini",
-  description: "XPL Gemini AI has been integrated into the Plasmachain. ",
+  description: "TON Gemini AI has been integrated into the TON blockchain. ",
 };
 
 export default function RootLayout({

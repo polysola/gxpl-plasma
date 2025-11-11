@@ -17,7 +17,7 @@ export const TOOLS: ToolItemProps[] = [
     slug: "photo",
   },
   {
-    title: "Plasma Chain Tool",
+    title: "Ton Chain Tool",
     icon: "/tools.png",
     url: "/tools",
     color: "bg-amber-500",
