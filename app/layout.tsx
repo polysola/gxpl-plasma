@@ -8,7 +8,7 @@ import NextTopLoader from "nextjs-toploader";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "XPL Gemini",
+  title: "TON Gemini",
   description: "TON Gemini AI has been integrated into the TON blockchain. ",
 };
 

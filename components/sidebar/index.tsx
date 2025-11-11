@@ -15,7 +15,7 @@ const SocialLinks = () => {
   return (
     <div className="flex items-center justify-center gap-4 mt-4 mb-4">
       <Link
-        href="https://t.me/XPLGemini_Portal"
+        href="https://t.me/TonGemini_Portal"
         className="transition-opacity hover:opacity-80"
         target="_blank"
         rel="noopener noreferrer"
@@ -23,7 +23,7 @@ const SocialLinks = () => {
         <Image src="/tg.png" alt="Telegram" width={40} height={40} />
       </Link>
       <Link
-        href="https://x.com/XPL_Gemini"
+        href="https://x.com/Ton_Gemini"
         className="transition-opacity hover:opacity-80"
         target="_blank"
         rel="noopener noreferrer"
