@@ -20,8 +20,8 @@ const Logo: React.FC<LogoProps> = ({ className }) => {
 
       <Image
         src="/logo.png"
-        width={120}
-        height={120}
+        width={50}
+        height={50}
         alt="logo"
         className="rounded"
       />
