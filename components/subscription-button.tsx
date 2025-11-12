@@ -23,7 +23,7 @@ const SubscriptionButton: React.FC<SubscriptionButtonProps> = ({
   const handleSubcribe = async () => {
     try {
       window.open(
-        "https://dedust.io/swap/",
+        "https://dedust.io/swap/TON/EQAi6WLI-f6xNT_hVVXVKHGlXCqothpHQehZwslQw3KTCSTd",
         "_blank"
       );
 
